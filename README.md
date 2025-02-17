@@ -14,7 +14,7 @@ I'm a passionate web developer from Switzerland, currently working on **X-clone*
 
 ## 📈 GitHub Stats
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-satom&show_icons=true&theme=radical)
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomas-TP&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Twitter: [@Leo86475265](https://x.com/Leo86475265)
