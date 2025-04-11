@@ -127,22 +127,31 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Séparateur">
 </div>
 
-<h2 align="center">🐍 Activité GitHub</h2>
+<h2 align="center">🎮 Jeu de Tic-Tac-Toe</h2>
 
 <div align="center">
-  <img src="https://github.com/Thomas-TP/Thomas-TP/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Séparateur">
-</div>
-
-<h2 align="center">🎵 En Écoute</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/thomastp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=thomastp&count=3&theme=dark" alt="Spotify Recently Played" />
-  </a>
+  <p>Jouez contre mon bot intelligent ! Cliquez sur une case pour commencer.</p>
+  
+  <!-- Le plateau de jeu sera généré dynamiquement par GitHub Actions -->
+  <!-- État initial du jeu -->
+  | | | |
+  |:---:|:---:|:---:|
+  |[   ](#play-0)|[   ](#play-1)|[   ](#play-2)|
+  |[   ](#play-3)|[   ](#play-4)|[   ](#play-5)|
+  |[   ](#play-6)|[   ](#play-7)|[   ](#play-8)|
+  
+  <p>Difficulté : <a href="#easy">Facile</a> | <a href="#medium">Moyen</a> | <a href="#hard">Difficile</a></p>
+  
+  <details>
+    <summary>Comment ça marche ?</summary>
+    <p>Ce jeu de Tic-Tac-Toe interactif fonctionne grâce à GitHub Actions. Lorsque vous cliquez sur une case, une issue GitHub est créée, déclenchant un workflow qui met à jour le README avec votre coup et la réponse du bot.</p>
+    <p>Le bot utilise un algorithme intelligent avec différents niveaux de difficulté :</p>
+    <ul>
+      <li><strong>Facile</strong> : Le bot joue principalement au hasard, mais peut gagner s'il en a l'opportunité.</li>
+      <li><strong>Moyen</strong> : Le bot bloque vos tentatives de victoire et essaie de gagner quand c'est possible.</li>
+      <li><strong>Difficile</strong> : Le bot utilise une stratégie optimale basée sur un carré magique 3x3, rendant presque impossible de le battre.</li>
+    </ul>
+  </details>
 </div>
 
 <div align="center">
@@ -155,19 +164,6 @@
   <a href="https://weather-forecast-demo.vercel.app/?city=Geneva">
     <img src="https://weather-badge.vercel.app/api/badge?lat=46.2&lon=6.1&theme=dark" alt="Météo à Genève" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Séparateur">
-</div>
-
-<h2 align="center">🎮 Jeu Interactif</h2>
-
-<div align="center">
-  <a href="https://github.com/Thomas-TP/Thomas-TP/issues/new?title=Tic-Tac-Toe%3A+Place+at+{0-8}&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+Thank+you+for+playing+%3Ap">
-    <img src="https://tictactoe-readme.vercel.app/api?username=Thomas-TP&theme=dark" alt="Tic Tac Toe" />
-  </a>
-  <p>Cliquez sur une case pour jouer au Tic-Tac-Toe avec moi !</p>
 </div>
 
 <div align="center">
@@ -205,7 +201,7 @@
 
 <div align="center">
   <p>Ce README est mis à jour automatiquement grâce à GitHub Actions</p>
-  <img src="https://img.shields.io/github/actions/workflow/status/Thomas-TP/Thomas-TP/snake.yml?style=for-the-badge" alt="GitHub Actions" />
+  <img src="https://img.shields.io/github/actions/workflow/status/Thomas-TP/Thomas-TP/tictactoe.yml?style=for-the-badge" alt="GitHub Actions" />
 </div>
 
 <div align="center">
