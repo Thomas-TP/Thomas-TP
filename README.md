@@ -1,8 +1,8 @@
-# Thomas P. | Développeur Web & Informaticien
+# Thomas P. | Informaticien
 
 <div align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=38&desc=Développeur%20Web%20%7C%20Informaticien%20%7C%20Innovateur&descAlignY=60&animation=fadeIn" width="100%" alt="Bannière Thomas P.">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=300&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=38&desc=Développeur%20Web%20%7C%20Informaticien%20%7C%20&descAlignY=60&animation=fadeIn" width="100%" alt="Bannière Thomas P.">
   </a>
 </div>
 
