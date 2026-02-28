@@ -10,9 +10,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000">
-    <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=ffffff&label_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000&label_color=ffffff">
+    <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000&label_color=ffffff">
   </picture>
   <a href="https://github.com/Thomas-TP?tab=followers">
     <picture>
