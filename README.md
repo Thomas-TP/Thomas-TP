@@ -10,9 +10,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=black">
-    <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=black">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000">
+    <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000">
   </picture>
   <a href="https://github.com/Thomas-TP?tab=followers">
     <picture>
@@ -82,7 +82,21 @@
 <hr>
 <br>
 
-<h2 align="center">📚 Formation & Parcours</h2>
+<h2 align="center">� Mes Contributions</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake.svg">
+    <img alt="Animation des contributions Github" src="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+<hr>
+<br>
+
+<h2 align="center">�📚 Formation & Parcours</h2>
 
 <div align="center">
   <div>
