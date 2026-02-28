@@ -10,9 +10,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=ffffff&label_color=000000&label_color=000000&label_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000&label_color=ffffff&label_color=000000&label_color=ffffff">
-    <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=Thomas-TP&style=for-the-badge&color=000000&label_color=ffffff&label_color=000000&label_color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=white&labelColor=black&label_color=000000&label_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=black&labelColor=white&label_color=000000&label_color=ffffff">
+    <img alt="Vues du profil" src="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=black&labelColor=white&label_color=000000&label_color=ffffff">
   </picture>
   <a href="https://github.com/Thomas-TP?tab=followers">
     <picture>
@@ -96,7 +96,7 @@
 <hr>
 <br>
 
-<h2 align="center">�📚 Formation & Parcours</h2>
+<h2 align="center">📚 Formation & Parcours</h2>
 
 <div align="center">
   <div>
