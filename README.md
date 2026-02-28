@@ -59,9 +59,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub" alt="Statistiques GitHub" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub" alt="Statistiques GitHub" width="49%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-TP&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&dates_color=a3a3a3&ring_color=ffffff&sideNums_color=ffffff&currStreakNum_color=ffffff&sideLabels_color=a3a3a3&currStreakLabel_color=a3a3a3&fire=ffffff&hide_border=true">
@@ -72,9 +72,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" width="35%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" width="35%" />
   </picture>
 </div>
 
@@ -87,17 +87,17 @@
 <div align="center">
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-white?style=for-the-badge&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=white&color=black" alt="Geneva Institute of Technology"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-white?style=for-the-badge&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=black&color=black" alt="Geneva Institute of Technology"/>
     </picture>
     <p>CFC d'informaticien, Informatique</p>
   </div>
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-white?style=for-the-badge&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=white&color=black" alt="FuturPlus Lausanne"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-white?style=for-the-badge&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=black&color=black" alt="FuturPlus Lausanne"/>
     </picture>
     <p>Préapprentissage, préparation aux formations professionnelles en informatique</p>
   </div>
@@ -113,81 +113,81 @@
   <h3>Langages de programmation</h3>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=white&color=black" alt="HTML5"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black" alt="HTML5"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=white&color=black" alt="CSS3"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black" alt="CSS3"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=white&color=black" alt="JavaScript"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black" alt="JavaScript"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=white&color=black" alt="Python"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black" alt="Python"/>
     </picture>
   </p>
   
   <h3>Frameworks & Bibliothèques</h3>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=white&color=black" alt="Tailwind CSS"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black&color=black" alt="Tailwind CSS"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=white&color=black" alt="React"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=black" alt="React"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=white&color=black" alt="Node.js"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=black" alt="Node.js"/>
     </picture>
   </p>
   
   <h3>Outils & Technologies</h3>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=white&color=black" alt="Git"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black" alt="Git"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=black" alt="GitHub"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=white&color=black" alt="VS Code"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=black&color=black" alt="VS Code"/>
     </picture>
   </p>
   
   <h3>Domaines d'intérêt</h3>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web_Development-white?style=for-the-badge&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=white&color=black" alt="Web Development"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web_Development-white?style=for-the-badge&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=black&color=black" alt="Web Development"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IoT-white?style=for-the-badge&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=white&color=black" alt="IoT"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IoT-white?style=for-the-badge&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=black&color=black" alt="IoT"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=white&color=black" alt="Machine Learning"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=black&color=black" alt="Machine Learning"/>
     </picture>
   </p>
 </div>
@@ -201,9 +201,9 @@
 <div align="center">
   <a href="https://github.com/Thomas-TP/Thomas-TP.github.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true" alt="X-clone" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true" alt="X-clone" />
     </picture>
   </a>
 </div>
@@ -233,30 +233,30 @@
 <div align="center">
   <a href="https://github.com/Thomas-TP" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=black" alt="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/thomas-p-6850772aa/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=black" alt="LinkedIn" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black" alt="LinkedIn" />
     </picture>
   </a>
   <a href="https://thomastp.ch" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=white&color=black" alt="Website" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=black" alt="Website" />
     </picture>
   </a>
   <a href="mailto:thomas@prudhomme.li" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=black">
-      <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=black" alt="Email" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white&color=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black">
+      <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black" alt="Email" />
     </picture>
   </a>
 </div>
