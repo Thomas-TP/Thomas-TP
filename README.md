@@ -2,293 +2,146 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=250&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=45&desc=%20%20%7C%20Informaticien%20%7C%20&descAlignY=65&animation=fadeIn&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=250&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=45&desc=%20%20%7C%20Informaticien%20%7C%20&descAlignY=65&animation=fadeIn&fontColor=000000">
-    <img alt="Bannière Thomas P." src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=250&section=header&text=Thomas%20P.&fontSize=90&fontAlignY=45&desc=%20%20%7C%20Informaticien%20%7C%20&descAlignY=65&animation=fadeIn&fontColor=000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=Thomas%20P.&fontSize=88&fontAlignY=45&desc=Informaticien%20%C2%B7%20Web%20%C2%B7%20Apps%20%C2%B7%20Cloud&descAlignY=67&animation=fadeIn&fontColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=Thomas%20P.&fontSize=88&fontAlignY=45&desc=Informaticien%20%C2%B7%20Web%20%C2%B7%20Apps%20%C2%B7%20Cloud&descAlignY=67&animation=fadeIn&fontColor=000000">
+    <img alt="Thomas P. - Informaticien" src="https://capsule-render.vercel.app/api?type=transparent&height=220&section=header&text=Thomas%20P.&fontSize=88&fontAlignY=45&desc=Informaticien%20%C2%B7%20Web%20%C2%B7%20Apps%20%C2%B7%20Cloud&descAlignY=67&animation=fadeIn&fontColor=000000">
   </picture>
+
+  <a href="https://github.com/Thomas-TP?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Thomas-TP?style=for-the-badge&logo=github&label=Followers&color=000000&labelColor=555555"></a>
+  <a href="https://github.com/Thomas-TP?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repos-publics-000000?style=for-the-badge&logo=github&labelColor=555555"></a>
+  <a href="https://thomastp.ch"><img alt="Website" src="https://img.shields.io/badge/thomastp.ch-live-000000?style=for-the-badge&logo=googlechrome&labelColor=555555"></a>
+  <a href="https://links.thomastp.ch"><img alt="Links" src="https://img.shields.io/badge/links.thomastp.ch-live-000000?style=for-the-badge&logo=linktree&labelColor=555555"></a>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=white&labelColor=black&label_color=000000&label_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=black&labelColor=white&label_color=000000&label_color=ffffff">
-    <img alt="Vues du profil" src="https://hits.sh/github.com/Thomas-TP/Thomas-TP.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=black&labelColor=white&label_color=000000&label_color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=CFC+informaticien+en+Suisse;React+%C2%B7+TypeScript+%C2%B7+Rust+%C2%B7+Cloudflare;Je+construis+des+interfaces+utiles+et+propres;Toujours+en+train+d'apprendre+et+d'ameliorer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=CFC+informaticien+en+Suisse;React+%C2%B7+TypeScript+%C2%B7+Rust+%C2%B7+Cloudflare;Je+construis+des+interfaces+utiles+et+propres;Toujours+en+train+d'apprendre+et+d'ameliorer">
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=CFC+informaticien+en+Suisse;React+%C2%B7+TypeScript+%C2%B7+Rust+%C2%B7+Cloudflare;Je+construis+des+interfaces+utiles+et+propres;Toujours+en+train+d'apprendre+et+d'ameliorer">
   </picture>
-  <a href="https://github.com/Thomas-TP?tab=followers">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Thomas-TP?style=for-the-badge&logo=github&color=white&labelColor=black&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Thomas-TP?style=for-the-badge&logo=github&color=black&labelColor=white&logoColor=black">
-      <img src="https://img.shields.io/github/followers/Thomas-TP?style=for-the-badge&logo=github&color=black&labelColor=white&logoColor=black" alt="Followers"/>
-    </picture>
-  </a>
-  <a href="https://github.com/Thomas-TP?tab=repositories&q=&type=&language=&sort=stargazers">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/Thomas-TP?style=for-the-badge&logo=github&color=white&labelColor=black&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Thomas-TP?style=for-the-badge&logo=github&color=black&labelColor=white&logoColor=black">
-      <img src="https://img.shields.io/github/stars/Thomas-TP?style=for-the-badge&logo=github&color=black&labelColor=white&logoColor=black" alt="Stars"/>
-    </picture>
-  </a>
 </div>
 
-<br>
+---
+
+## A propos
+
+Je suis Thomas Prud'homme, informaticien en formation en Suisse. J'aime construire des projets concrets: portfolios rapides, petites apps utiles, extensions navigateur, outils desktop et experiences web interactives.
+
+En ce moment je consolide surtout mes projets publics autour de React, TypeScript, Cloudflare, Tauri/Rust et GitHub Actions. Mon objectif: avoir des projets propres, documentes, securises et faciles a tester.
+
+---
+
+## Projets en avant
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Thomas-TP/Thomas-TP.github.io">thomastp.ch</a></h3>
+      <p>Portfolio personnel moderne avec React, TypeScript, Bun, Rsbuild, UnoCSS, animations, i18n et deploiement Cloudflare.</p>
+      <p><a href="https://thomastp.ch">Site live</a></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
+      <p>Soundboard Windows moderne construit avec Tauri, Rust, React et TypeScript, pense pour l'audio rapide et les raccourcis.</p>
+      <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Releases</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Thomas-TP/Link-Catcher">Link-Catcher</a></h3>
+      <p>Extension Chrome Manifest V3 pour rediriger instantanement des mots-cles vers des URL, avec une approche privacy-first.</p>
+      <p><a href="https://github.com/Thomas-TP/Link-Catcher">Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Thomas-TP/links">links.thomastp.ch</a></h3>
+      <p>Link-in-bio personnel avec Next.js, React, TypeScript, GitHub Pages, animations et integration Cloudflare Workers.</p>
+      <p><a href="https://links.thomastp.ch">Site live</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Activite automatique
+
+<!-- PROFILE-ACTIVITY:START -->
+
+### Projets les plus actifs
+
+| Projet | Focus | Stack | Derniere activite |
+| --- | --- | --- | --- |
+| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | 2026-04-30 |
+| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | 2026-04-30 |
+| [TomBoard](https://github.com/Thomas-TP/TomBoard) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | 2026-04-30 |
+
+### Derniere activite publique
+
+- 2026-04-30: mise a jour du profil et des projets publics
+- 2026-04-30: securisation des projets avec Dependabot, CODEOWNERS et SECURITY.md
+- 2026-04-30: descriptions, liens et topics ajoutes aux projets principaux
+
+<p align="center"><sub>Cette section est mise a jour automatiquement par GitHub Actions.</sub></p>
+
+<!-- PROFILE-ACTIVITY:END -->
+
+---
+
+## Stack actuelle
+
+<div align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white">
+</div>
+
+---
+
+## Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Étudiant+en+informatique;Passionné+de+développement+web;Enthousiaste+IoT+et+Machine+Learning;Toujours+en+quête+d'innovation">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Étudiant+en+informatique;Passionné+de+développement+web;Enthousiaste+IoT+et+Machine+Learning;Toujours+en+quête+d'innovation">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Étudiant+en+informatique;Passionné+de+développement+web;Enthousiaste+IoT+et+Machine+Learning;Toujours+en+quête+d'innovation" />
-  </picture>
-</div>
-
-<br>
-<hr>
-<br>
-
-<h2 align="center">👨‍💻 À propos de moi</h2>
-
-<div align="center">
-  <p>
-    Bonjour, je suis <b>Thomas</b> ! Informaticien originaire de Suisse, je suis actuellement étudiant au <b>Geneva Institute of Technology</b> où je poursuis un CFC d'informaticien. Passionné par l'innovation et les nouvelles technologies, je m'intéresse particulièrement au développement web, à l'IoT et au machine learning.
-  </p>
-  <p>
-    Je travaille actuellement sur <b>X-clone</b>, un projet personnel qui me permet d'améliorer mes compétences en JavaScript et technologies front-end.
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mes%20Statistiques%20GitHub" alt="Statistiques GitHub" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistiques%20GitHub">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistiques%20GitHub">
+    <img alt="Statistiques GitHub" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thomas-TP&show_icons=true&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistiques%20GitHub">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-TP&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&dates_color=a3a3a3&ring_color=ffffff&sideNums_color=ffffff&currStreakNum_color=ffffff&sideLabels_color=a3a3a3&currStreakLabel_color=a3a3a3&fire=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-TP&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&dates_color=404040&ring_color=000000&sideNums_color=000000&currStreakNum_color=000000&sideLabels_color=404040&currStreakLabel_color=404040&fire=000000&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomas-TP&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&dates_color=404040&ring_color=000000&sideNums_color=000000&currStreakNum_color=000000&sideLabels_color=404040&currStreakLabel_color=404040&fire=000000&hide_border=true" alt="Streak Stats" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=compact&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=compact&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=8">
+    <img alt="Langages principaux" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=compact&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=8">
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thomas-TP&layout=donut-vertical&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" width="35%" />
-  </picture>
-</div>
+---
 
-<br>
-<hr>
-<br>
-
-<h2 align="center">🐍 Mes Contributions</h2>
+## Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake.svg">
-    <img alt="Animation des contributions Github" src="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake.svg">
+    <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/Thomas-TP/Thomas-TP/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br>
-<hr>
-<br>
+---
 
-<h2 align="center">📚 Formation & Parcours</h2>
+## Contact
 
 <div align="center">
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-white?style=for-the-badge&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/2024--2028-Geneva%20Institute%20of%20Technology-black?style=for-the-badge&labelColor=black&color=black" alt="Geneva Institute of Technology"/>
-    </picture>
-    <p>CFC d'informaticien, Informatique</p>
-  </div>
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-white?style=for-the-badge&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/2023--2024-FuturPlus%20Lausanne-black?style=for-the-badge&labelColor=black&color=black" alt="FuturPlus Lausanne"/>
-    </picture>
-    <p>Préapprentissage, préparation aux formations professionnelles en informatique</p>
-  </div>
-</div>
-
-<br>
-<hr>
-<br>
-
-<h2 align="center">🛠️ Compétences Techniques</h2>
-
-<div align="center">
-  <h3>Langages de programmation</h3>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=black" alt="HTML5"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=black" alt="CSS3"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black" alt="JavaScript"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black" alt="Python"/>
-    </picture>
-  </p>
-  
-  <h3>Frameworks & Bibliothèques</h3>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black&color=black" alt="Tailwind CSS"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=black" alt="React"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=black" alt="Node.js"/>
-    </picture>
-  </p>
-  
-  <h3>Outils & Technologies</h3>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black" alt="Git"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=black&color=black" alt="VS Code"/>
-    </picture>
-  </p>
-  
-  <h3>Domaines d'intérêt</h3>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Web_Development-white?style=for-the-badge&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Web_Development-black?style=for-the-badge&labelColor=black&color=black" alt="Web Development"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IoT-white?style=for-the-badge&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/IoT-black?style=for-the-badge&labelColor=black&color=black" alt="IoT"/>
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&labelColor=black&color=black" alt="Machine Learning"/>
-    </picture>
-  </p>
-</div>
-
-<br>
-<hr>
-<br>
-
-<h2 align="center">🚀 Projets</h2>
-
-<div align="center">
-  <a href="https://github.com/Thomas-TP/Thomas-TP.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&bg_color=00000000&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Thomas-TP&repo=Thomas-TP.github.io&theme=transparent&title_color=000000&text_color=404040&icon_color=000000&bg_color=00000000&hide_border=true" alt="X-clone" />
-    </picture>
-  </a>
-</div>
-
-<br>
-<hr>
-<br>
-
-<h2 align="center">🌦️ Météo Locale</h2>
-
-<div align="center">
-  <a href="https://weather-forecast-demo.vercel.app/?city=Geneva">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://weather-badge.vercel.app/api/badge?lat=46.2&lon=6.1&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://weather-badge.vercel.app/api/badge?lat=46.2&lon=6.1&theme=light">
-      <img src="https://weather-badge.vercel.app/api/badge?lat=46.2&lon=6.1&theme=light" alt="Météo à Genève" />
-    </picture>
-  </a>
-</div>
-
-<br>
-<hr>
-<br>
-
-<h2 align="center">🔗 Liens & Contact</h2>
-
-<div align="center">
-  <a href="https://github.com/Thomas-TP" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/thomas-p-6850772aa/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=black" alt="LinkedIn" />
-    </picture>
-  </a>
-  <a href="https://thomastp.ch" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=black" alt="Website" />
-    </picture>
-  </a>
-  <a href="mailto:thomas@prudhomme.li" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white&color=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black">
-      <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black" alt="Email" />
-    </picture>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=ffffff&author_color=a3a3a3&bg_color=00000000&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=000000&author_color=404040&bg_color=00000000&hide_border=true">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=000000&author_color=404040&bg_color=00000000&hide_border=true" alt="Citation aléatoire" />
-  </picture>
+  <a href="https://thomastp.ch"><img alt="Website" src="https://img.shields.io/badge/Website-thomastp.ch-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://links.thomastp.ch"><img alt="Links" src="https://img.shields.io/badge/Links-links.thomastp.ch-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thomas-tp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20P.-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:thomas@prudhomme.li"><img alt="Email" src="https://img.shields.io/badge/Email-thomas@prudhomme.li-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn">
-    <img alt="Pied de page" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=95&section=footer&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=95&section=footer&animation=fadeIn">
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=95&section=footer&animation=fadeIn">
   </picture>
 </div>
