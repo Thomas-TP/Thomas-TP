@@ -1,6 +1,6 @@
 name: Update profile activity
 
-on:
+"on":
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch: {}
