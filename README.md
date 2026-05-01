@@ -33,58 +33,18 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 
 ## Projets en avant
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Thomas-TP/Thomas-TP.github.io">thomastp.ch</a></h3>
-      <p>Portfolio personnel moderne avec React, TypeScript, Bun, Rsbuild, UnoCSS, animations, i18n et deploiement Cloudflare.</p>
-      <p><a href="https://thomastp.ch">Site live</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
-      <p>Soundboard Windows moderne construit avec Tauri, Rust, React et TypeScript, pense pour l'audio rapide et les raccourcis.</p>
-      <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Releases</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Thomas-TP/Link-Catcher">Link-Catcher</a></h3>
-      <p>Extension Chrome Manifest V3 pour rediriger instantanement des mots-cles vers des URL, avec une approche privacy-first.</p>
-      <p><a href="https://github.com/Thomas-TP/Link-Catcher">Repository</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Thomas-TP/links">links.thomastp.ch</a></h3>
-      <p>Link-in-bio personnel avec Next.js, React, TypeScript, GitHub Pages, animations et integration Cloudflare Workers.</p>
-      <p><a href="https://links.thomastp.ch">Site live</a></p>
-    </td>
-  </tr>
-</table>
+<!-- FEATURED-PROJECTS:START -->
 
----
+| Projet | Description GitHub | Stack | Stats | Derniere activite |
+| --- | --- | --- | --- | --- |
+| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-05-01 |
+| [TomBoard](https://github.com/Thomas-TP/TomBoard) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | Stars: 0 · Forks: 0 · Issues: 0 | 2026-04-30 |
+| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-04-30 |
+| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | Stars: 0 · Forks: 0 · Issues: 1 | 2026-04-30 |
 
-## Activite automatique
+<p align="center"><sub>Mis a jour automatiquement par GitHub Actions.</sub></p>
 
-<!-- PROFILE-ACTIVITY:START -->
-
-### Projets les plus actifs
-
-| Projet | Focus | Stack | Derniere activite |
-| --- | --- | --- | --- |
-| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | 2026-05-01 |
-| [TomBoard](https://github.com/Thomas-TP/TomBoard) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | 2026-04-30 |
-| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | 2026-04-30 |
-
-### Derniere activite publique
-
-- 2026-05-01: 1 commit(s) sur [Thomas-TP/Thomas-TP](https://github.com/Thomas-TP/Thomas-TP)
-- 2026-05-01: 1 commit(s) sur [Thomas-TP/Thomas-TP](https://github.com/Thomas-TP/Thomas-TP)
-- 2026-05-01: 1 commit(s) sur [Thomas-TP/Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io)
-- 2026-04-30: 1 commit(s) sur [Thomas-TP/TomBoard](https://github.com/Thomas-TP/TomBoard)
-- 2026-04-30: 1 commit(s) sur [Thomas-TP/links](https://github.com/Thomas-TP/links)
-
-<p align="center"><sub>Mis a jour automatiquement le 2026-05-01 par GitHub Actions.</sub></p>
-
-<!-- PROFILE-ACTIVITY:END -->
+<!-- FEATURED-PROJECTS:END -->
 
 ---
 
