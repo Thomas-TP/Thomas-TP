@@ -38,21 +38,48 @@ jobs:
               .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
               .slice(0, 4);
 
-            const rows = featuredRepos.map((repo) => {
+            const badgeUrl = (label, value, color) => {
+              const encodedLabel = encodeURIComponent(label);
+              const encodedValue = encodeURIComponent(String(value));
+              return `https://img.shields.io/badge/${encodedLabel}-${encodedValue}-${color}?style=flat-square`;
+            };
+
+            const cards = featuredRepos.map((repo, index) => {
               const description = repo.description || "Projet en cours";
               const language = repo.language || "Mixed";
               const pushed = repo.pushed_at ? repo.pushed_at.slice(0, 10) : "n/a";
-              const homepage = repo.homepage ? ` · [Live](${repo.homepage})` : "";
-              const stats = `Stars: ${repo.stargazers_count} · Forks: ${repo.forks_count} · Issues: ${repo.open_issues_count}`;
-              return `| [${repo.name}](${repo.html_url})${homepage} | ${description} | ${language} | ${stats} | ${pushed} |`;
-            }).join("\n");
+              const liveLink = repo.homepage
+                ? `<a href="${repo.homepage}">Live</a> · `
+                : "";
+              const accent = ["2ea44f", "0969da", "bf3989", "d29922"][index % 4];
+
+              return [
+                `<td width="50%" valign="top">`,
+                `  <h3><a href="${repo.html_url}">${repo.name}</a></h3>`,
+                `  <p>${description}</p>`,
+                `  <p>`,
+                `    <img alt="Stack ${language}" src="${badgeUrl("Stack", language, accent)}" />`,
+                `    <img alt="${repo.stargazers_count} stars" src="${badgeUrl("Stars", repo.stargazers_count, "111827")}" />`,
+                `    <img alt="${repo.forks_count} forks" src="${badgeUrl("Forks", repo.forks_count, "111827")}" />`,
+                `    <img alt="${repo.open_issues_count} issues" src="${badgeUrl("Issues", repo.open_issues_count, "111827")}" />`,
+                `  </p>`,
+                `  <p>${liveLink}<a href="${repo.html_url}">Repository</a></p>`,
+                `  <sub>Derniere activite: ${pushed}</sub>`,
+                `</td>`,
+              ].join("\n");
+            });
+
+            const rows = [];
+            for (let index = 0; index < cards.length; index += 2) {
+              rows.push(`<tr>\n${cards.slice(index, index + 2).join("\n")}\n</tr>`);
+            }
 
             const dynamic = [
               "<!-- FEATURED-PROJECTS:START -->",
               "",
-              "| Projet | Description GitHub | Stack | Stats | Derniere activite |",
-              "| --- | --- | --- | --- | --- |",
-              rows,
+              `<table width="100%">`,
+              rows.join("\n"),
+              `</table>`,
               "",
               `<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le ${now} par GitHub Actions.</sub></p>`,
               "",
