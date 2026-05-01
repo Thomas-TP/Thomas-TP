@@ -35,12 +35,60 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 
 <!-- FEATURED-PROJECTS:START -->
 
-| Projet | Description GitHub | Stack | Stats | Derniere activite |
-| --- | --- | --- | --- | --- |
-| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) · [Live](https://thomastp.ch) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | Stars: 1 · Forks: 0 · Issues: 1 | 2026-05-01 |
-| [TomBoard](https://github.com/Thomas-TP/TomBoard) · [Live](https://github.com/Thomas-TP/TomBoard/releases) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | Stars: 0 · Forks: 0 · Issues: 0 | 2026-04-30 |
-| [links](https://github.com/Thomas-TP/links) · [Live](https://links.thomastp.ch) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-04-30 |
-| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) · [Live](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | Stars: 0 · Forks: 0 · Issues: 1 | 2026-04-30 |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/Thomas-TP.github.io">Thomas-TP.github.io</a></h3>
+  <p>Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare.</p>
+  <p>
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
+    <img alt="1 stars" src="https://img.shields.io/badge/Stars-1-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="1 issues" src="https://img.shields.io/badge/Issues-1-111827?style=flat-square" />
+  </p>
+  <p><a href="https://thomastp.ch">Live</a> · <a href="https://github.com/Thomas-TP/Thomas-TP.github.io">Repository</a></p>
+  <sub>Derniere activite: 2026-05-01</sub>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
+  <p>Modern Windows soundboard built with Tauri, Rust, React and TypeScript.</p>
+  <p>
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
+    <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
+  </p>
+  <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Live</a> · <a href="https://github.com/Thomas-TP/TomBoard">Repository</a></p>
+  <sub>Derniere activite: 2026-04-30</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/links">links</a></h3>
+  <p>Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages.</p>
+  <p>
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-bf3989?style=flat-square" />
+    <img alt="1 stars" src="https://img.shields.io/badge/Stars-1-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
+  </p>
+  <p><a href="https://links.thomastp.ch">Live</a> · <a href="https://github.com/Thomas-TP/links">Repository</a></p>
+  <sub>Derniere activite: 2026-04-30</sub>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/Link-Catcher">Link-Catcher</a></h3>
+  <p>Privacy-first Chrome extension for instant keyword-based URL redirects.</p>
+  <p>
+    <img alt="Stack JavaScript" src="https://img.shields.io/badge/Stack-JavaScript-d29922?style=flat-square" />
+    <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="1 issues" src="https://img.shields.io/badge/Issues-1-111827?style=flat-square" />
+  </p>
+  <p><a href="https://github.com/Thomas-TP/Link-Catcher">Live</a> · <a href="https://github.com/Thomas-TP/Link-Catcher">Repository</a></p>
+  <sub>Derniere activite: 2026-04-30</sub>
+</td>
+</tr>
+</table>
 
 <p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-05-01 par GitHub Actions.</sub></p>
 
