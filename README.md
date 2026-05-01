@@ -37,12 +37,12 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 
 | Projet | Description GitHub | Stack | Stats | Derniere activite |
 | --- | --- | --- | --- | --- |
-| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-05-01 |
-| [TomBoard](https://github.com/Thomas-TP/TomBoard) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | Stars: 0 · Forks: 0 · Issues: 0 | 2026-04-30 |
-| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-04-30 |
-| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | Stars: 0 · Forks: 0 · Issues: 1 | 2026-04-30 |
+| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) · [Live](https://thomastp.ch) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | Stars: 1 · Forks: 0 · Issues: 1 | 2026-05-01 |
+| [TomBoard](https://github.com/Thomas-TP/TomBoard) · [Live](https://github.com/Thomas-TP/TomBoard/releases) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | Stars: 0 · Forks: 0 · Issues: 0 | 2026-04-30 |
+| [links](https://github.com/Thomas-TP/links) · [Live](https://links.thomastp.ch) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | Stars: 1 · Forks: 0 · Issues: 0 | 2026-04-30 |
+| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) · [Live](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | Stars: 0 · Forks: 0 · Issues: 1 | 2026-04-30 |
 
-<p align="center"><sub>Mis a jour automatiquement par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-05-01 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
