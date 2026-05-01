@@ -70,17 +70,19 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 
 | Projet | Focus | Stack | Derniere activite |
 | --- | --- | --- | --- |
-| [Link-Catcher](https://github.com/Thomas-TP/Link-Catcher) | Privacy-first Chrome extension for instant keyword-based URL redirects. | JavaScript | 2026-04-30 |
-| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | 2026-04-30 |
+| [Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io) | Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare. | TypeScript | 2026-05-01 |
 | [TomBoard](https://github.com/Thomas-TP/TomBoard) | Modern Windows soundboard built with Tauri, Rust, React and TypeScript. | TypeScript | 2026-04-30 |
+| [links](https://github.com/Thomas-TP/links) | Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages. | TypeScript | 2026-04-30 |
 
 ### Derniere activite publique
 
-- 2026-04-30: mise a jour du profil et des projets publics
-- 2026-04-30: securisation des projets avec Dependabot, CODEOWNERS et SECURITY.md
-- 2026-04-30: descriptions, liens et topics ajoutes aux projets principaux
+- 2026-05-01: 1 commit(s) sur [Thomas-TP/Thomas-TP](https://github.com/Thomas-TP/Thomas-TP)
+- 2026-05-01: 1 commit(s) sur [Thomas-TP/Thomas-TP.github.io](https://github.com/Thomas-TP/Thomas-TP.github.io)
+- 2026-05-01: 1 commit(s) sur [Satom-IT-Learning-Solutions/.github](https://github.com/Satom-IT-Learning-Solutions/.github)
+- 2026-05-01: 1 commit(s) sur [Satom-IT-Learning-Solutions/.github](https://github.com/Satom-IT-Learning-Solutions/.github)
+- 2026-04-30: 1 commit(s) sur [Thomas-TP/TomBoard](https://github.com/Thomas-TP/TomBoard)
 
-<p align="center"><sub>Cette section est mise a jour automatiquement par GitHub Actions.</sub></p>
+<p align="center"><sub>Mis a jour automatiquement le 2026-05-01 par GitHub Actions.</sub></p>
 
 <!-- PROFILE-ACTIVITY:END -->
 
