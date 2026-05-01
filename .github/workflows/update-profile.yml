@@ -47,10 +47,11 @@ jobs:
 
             const events = await github.rest.activity.listPublicEventsForUser({
               username: owner,
-              per_page: 20,
+              per_page: 30,
             });
 
             const eventLines = events.data
+              .filter((event) => event.repo?.name?.startsWith(`${owner}/`))
               .filter((event) => ["PushEvent", "CreateEvent", "ReleaseEvent", "PullRequestEvent"].includes(event.type))
               .slice(0, 5)
               .map((event) => {
