@@ -1,6 +1,6 @@
 name: Update profile activity
 
-"on":
+on:
   push:
     branches:
       - main
@@ -71,21 +71,23 @@ jobs:
               })
               .join("\n") || "- Aucune activite publique recente detectee.";
 
-            const dynamic = `<!-- PROFILE-ACTIVITY:START -->
-
-### Projets les plus actifs
-
-| Projet | Focus | Stack | Derniere activite |
-| --- | --- | --- | --- |
-${repoRows}
-
-### Derniere activite publique
-
-${eventLines}
-
-<p align="center"><sub>Mis a jour automatiquement le ${now} par GitHub Actions.</sub></p>
-
-<!-- PROFILE-ACTIVITY:END -->`;
+            const dynamic = [
+              "<!-- PROFILE-ACTIVITY:START -->",
+              "",
+              "### Projets les plus actifs",
+              "",
+              "| Projet | Focus | Stack | Derniere activite |",
+              "| --- | --- | --- | --- |",
+              repoRows,
+              "",
+              "### Derniere activite publique",
+              "",
+              eventLines,
+              "",
+              `<p align="center"><sub>Mis a jour automatiquement le ${now} par GitHub Actions.</sub></p>`,
+              "",
+              "<!-- PROFILE-ACTIVITY:END -->",
+            ].join("\n");
 
             const readme = await github.rest.repos.getContent({
               owner,
