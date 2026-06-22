@@ -47,7 +47,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
   <p><a href="https://github.com/Thomas-TP/GIT-VM">Repository</a></p>
-  <sub>Derniere activite: 2026-06-20</sub>
+  <sub>Derniere activite: 2026-06-22</sub>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-06-21 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-06-22 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
