@@ -38,7 +38,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/GIT-VM">GIT-VM</a></h3>
+  <h3><a href="https://github.com/Thomas-TP/GIT-VM-Google">GIT-VM-Google</a></h3>
   <p>Projet en cours</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
@@ -46,11 +46,11 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/GIT-VM">Repository</a></p>
-  <sub>Derniere activite: 2026-06-25</sub>
+  <p><a href="https://github.com/Thomas-TP/GIT-VM-Google">Repository</a></p>
+  <sub>Derniere activite: 2026-06-26</sub>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/GIT-VM-Azure">GIT-VM-Azure</a></h3>
+  <h3><a href="https://github.com/Thomas-TP/GIT-VM-Oracle">GIT-VM-Oracle</a></h3>
   <p>Projet en cours</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
@@ -58,13 +58,13 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/GIT-VM-Azure">Repository</a></p>
-  <sub>Derniere activite: 2026-06-25</sub>
+  <p><a href="https://github.com/Thomas-TP/GIT-VM-Oracle">Repository</a></p>
+  <sub>Derniere activite: 2026-06-26</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/GIT-VM-Oracle">GIT-VM-Oracle</a></h3>
+  <h3><a href="https://github.com/Thomas-TP/GIT-VM-Azure">GIT-VM-Azure</a></h3>
   <p>Projet en cours</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-bf3989?style=flat-square" />
@@ -72,11 +72,11 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/GIT-VM-Oracle">Repository</a></p>
-  <sub>Derniere activite: 2026-06-24</sub>
+  <p><a href="https://github.com/Thomas-TP/GIT-VM-Azure">Repository</a></p>
+  <sub>Derniere activite: 2026-06-25</sub>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/GIT-VM-OpenStack">GIT-VM-OpenStack</a></h3>
+  <h3><a href="https://github.com/Thomas-TP/GIT-VM">GIT-VM</a></h3>
   <p>Projet en cours</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-d29922?style=flat-square" />
@@ -84,13 +84,13 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/GIT-VM-OpenStack">Repository</a></p>
-  <sub>Derniere activite: 2026-06-24</sub>
+  <p><a href="https://github.com/Thomas-TP/GIT-VM">Repository</a></p>
+  <sub>Derniere activite: 2026-06-25</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-06-25 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-06-26 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
