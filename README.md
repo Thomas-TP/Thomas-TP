@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-07-01 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-07-02 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
