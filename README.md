@@ -44,10 +44,10 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
     <img alt="1 stars" src="https://img.shields.io/badge/Stars-1-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-    <img alt="1 issues" src="https://img.shields.io/badge/Issues-1-111827?style=flat-square" />
+    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
   <p><a href="https://thomastp.ch">Live</a> · <a href="https://github.com/Thomas-TP/Portfolio">Repository</a></p>
-  <sub>Derniere activite: 2026-08-12</sub>
+  <sub>Derniere activite: 2026-08-19</sub>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-08-19 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-08-20 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
