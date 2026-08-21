@@ -38,10 +38,22 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/FolderBar">FolderBar</a></h3>
+  <p>Des dossiers d'applications dans la barre des tâches de Windows 11 — overlay Acrylic natif au clic, Jump List au clic droit. Rust + Tauri 2.</p>
+  <p>
+    <img alt="Stack Rust" src="https://img.shields.io/badge/Stack-Rust-2ea44f?style=flat-square" />
+    <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
+  </p>
+  <p><a href="https://github.com/Thomas-TP/FolderBar/releases/latest">Live</a> · <a href="https://github.com/Thomas-TP/FolderBar">Repository</a></p>
+  <sub>Derniere activite: 2026-08-20</sub>
+</td>
+<td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/Portfolio">Portfolio</a></h3>
   <p>Personal portfolio for Thomas Prud'homme built with React, TypeScript, Bun, Rsbuild, UnoCSS and Cloudflare.</p>
   <p>
-    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
     <img alt="1 stars" src="https://img.shields.io/badge/Stars-1-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
@@ -49,11 +61,13 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
   <p><a href="https://thomastp.ch">Live</a> · <a href="https://github.com/Thomas-TP/Portfolio">Repository</a></p>
   <sub>Derniere activite: 2026-08-19</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
   <p>Projet en cours</p>
   <p>
-    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-bf3989?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="1 issues" src="https://img.shields.io/badge/Issues-1-111827?style=flat-square" />
@@ -61,13 +75,11 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
   <p><a href="https://github.com/Thomas-TP/Swiss3Design">Repository</a></p>
   <sub>Derniere activite: 2026-08-10</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
   <p>Modern Windows soundboard built with Tauri, Rust, React and TypeScript.</p>
   <p>
-    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-bf3989?style=flat-square" />
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-d29922?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="4 issues" src="https://img.shields.io/badge/Issues-4-111827?style=flat-square" />
@@ -75,22 +87,10 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
   <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Live</a> · <a href="https://github.com/Thomas-TP/TomBoard">Repository</a></p>
   <sub>Derniere activite: 2026-08-02</sub>
 </td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/links">links</a></h3>
-  <p>Personal link-in-bio site built with Next.js, React, TypeScript and GitHub Pages.</p>
-  <p>
-    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-d29922?style=flat-square" />
-    <img alt="1 stars" src="https://img.shields.io/badge/Stars-1-111827?style=flat-square" />
-    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-    <img alt="2 issues" src="https://img.shields.io/badge/Issues-2-111827?style=flat-square" />
-  </p>
-  <p><a href="https://links.thomastp.ch">Live</a> · <a href="https://github.com/Thomas-TP/links">Repository</a></p>
-  <sub>Derniere activite: 2026-07-28</sub>
-</td>
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-08-20 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-08-21 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
