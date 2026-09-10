@@ -38,28 +38,28 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
-  <p>Projet en cours</p>
-  <p>
-    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
-    <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
-    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
-  </p>
-  <p><a href="https://github.com/Thomas-TP/Swiss3Design">Repository</a></p>
-  <sub>Derniere activite: 2026-09-08</sub>
-</td>
-<td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/BoxMaker">BoxMaker</a></h3>
   <p>Projet en cours</p>
   <p>
-    <img alt="Stack Rust" src="https://img.shields.io/badge/Stack-Rust-0969da?style=flat-square" />
+    <img alt="Stack Rust" src="https://img.shields.io/badge/Stack-Rust-2ea44f?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
   <p><a href="https://github.com/Thomas-TP/BoxMaker">Repository</a></p>
-  <sub>Derniere activite: 2026-09-08</sub>
+  <sub>Derniere activite: 2026-09-09</sub>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
+  <p>Projet en cours</p>
+  <p>
+    <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
+    <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
+    <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+    <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
+  </p>
+  <p><a href="https://github.com/Thomas-TP/Swiss3Design">Repository</a></p>
+  <sub>Derniere activite: 2026-09-09</sub>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-09-09 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-09-10 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
