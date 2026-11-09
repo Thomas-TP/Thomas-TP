@@ -38,28 +38,28 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
-  <p>Modern Windows soundboard built with Tauri, Rust, React and TypeScript.</p>
+  <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
+  <p>Projet en cours</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-2ea44f?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="2 issues" src="https://img.shields.io/badge/Issues-2-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Live</a> · <a href="https://github.com/Thomas-TP/TomBoard">Repository</a></p>
-  <sub>Derniere activite: 2026-11-04</sub>
+  <p><a href="https://github.com/Thomas-TP/Swiss3Design">Repository</a></p>
+  <sub>Derniere activite: 2026-11-09</sub>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
-  <p>Projet en cours</p>
+  <h3><a href="https://github.com/Thomas-TP/TomBoard">TomBoard</a></h3>
+  <p>Modern Windows soundboard built with Tauri, Rust, React and TypeScript.</p>
   <p>
     <img alt="Stack TypeScript" src="https://img.shields.io/badge/Stack-TypeScript-0969da?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="2 issues" src="https://img.shields.io/badge/Issues-2-111827?style=flat-square" />
   </p>
-  <p><a href="https://github.com/Thomas-TP/Swiss3Design">Repository</a></p>
-  <sub>Derniere activite: 2026-11-02</sub>
+  <p><a href="https://github.com/Thomas-TP/TomBoard/releases">Live</a> · <a href="https://github.com/Thomas-TP/TomBoard">Repository</a></p>
+  <sub>Derniere activite: 2026-11-04</sub>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-11-08 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-11-09 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
