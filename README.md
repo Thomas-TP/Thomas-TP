@@ -41,13 +41,13 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
   <h3><a href="https://github.com/Thomas-TP/satom-cloud-network-TP-AC">satom-cloud-network-TP-AC</a></h3>
   <p>Satom Cloud Network - equipe TP-AC (Groupe Leman Finance SA) : documentation, scripts AWS CLI, templates CloudFormation et preuves</p>
   <p>
-    <img alt="Stack PowerShell" src="https://img.shields.io/badge/Stack-PowerShell-2ea44f?style=flat-square" />
+    <img alt="Stack Python" src="https://img.shields.io/badge/Stack-Python-2ea44f?style=flat-square" />
     <img alt="0 stars" src="https://img.shields.io/badge/Stars-0-111827?style=flat-square" />
     <img alt="0 forks" src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
     <img alt="0 issues" src="https://img.shields.io/badge/Issues-0-111827?style=flat-square" />
   </p>
   <p><a href="https://github.com/Thomas-TP/satom-cloud-network-TP-AC">Repository</a></p>
-  <sub>Derniere activite: 2026-11-17</sub>
+  <sub>Derniere activite: 2026-11-19</sub>
 </td>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/Thomas-TP/Swiss3Design">Swiss3Design</a></h3>
@@ -90,7 +90,7 @@ En ce moment je consolide surtout mes projets publics autour de React, TypeScrip
 </tr>
 </table>
 
-<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-11-18 par GitHub Actions.</sub></p>
+<p align="center"><sub>4 projets publics les plus actifs, mis a jour automatiquement le 2026-11-19 par GitHub Actions.</sub></p>
 
 <!-- FEATURED-PROJECTS:END -->
 
